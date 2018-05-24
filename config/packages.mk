@@ -10,6 +10,11 @@ PRODUCT_PACKAGES += \
     SystemBlackAF \
     UpdaterBlackAF \
 
+# DirtyyyAF Theme
+PRODUCT_PACKAGES += \
+    SettingsDirtyyyThemeOverlay \
+    SystemDirtyyyThemeOverlay \
+
 # Accents
 PRODUCT_PACKAGES += \
     AmberAccent \
